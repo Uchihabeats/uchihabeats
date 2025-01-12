@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjay Tunacao</h1>
-<h3 align="center">A passionate fullstack developer from Philippines</h3>
+<h3 align="center">A fullstack developer from the philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchihabeats&label=Profile%20views&color=0e75b6&style=flat" alt="uchihabeats" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud computing and some AI stuff**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
